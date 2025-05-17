@@ -1,0 +1,4 @@
+python main_exp.py -s 400 --n 1 --out_file "ablation_rejection_num/naive_pick_bar.json" --out_dir "ablation_rejection_num/naive_pick_bar" --temperature 0.3 --agg_metric "min" --enc_method "dinov2" --task_name "pick_bar"
+python main_exp.py -s 400 --n 1 --out_file "ablation_rejection_num/naive_pick_bar.json" --out_dir "ablation_rejection_num/naive_pick_bar" --temperature 0.3 --agg_metric "min" --enc_method "dinov2" --task_name "pick_bar"
+python main_exp.py -s 400 --n 1 --out_file "ablation_rejection_num/naive_pick_bar.json" --out_dir "ablation_rejection_num/naive_pick_bar" --temperature 0.3 --agg_metric "min" --enc_method "dinov2" --task_name "pick_bar"
+python main_exp.py -s 400 --n 1 --out_file "ablation_rejection_num/naive_pick_bar.json" --out_dir "ablation_rejection_num/naive_pick_bar" --temperature 0.3 --agg_metric "min" --enc_method "dinov2" --task_name "pick_bar"
